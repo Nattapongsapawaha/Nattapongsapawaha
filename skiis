@@ -1,0 +1,25 @@
+<h3>Skills</h3> 
+       <table style="border:dashed brown 2px;">
+            
+            <tr>
+                <td> <table>
+                        <td>Java Programming</td>
+                        <td>    </td> 
+                    </tr>
+                    <tr>
+                        <td>English</td>
+                        <td>    </td> 
+                    </tr>    
+                </table></td>
+                <td><table>
+                        <tr>
+                            <td>SQL</td>
+                            <td>    </td> 
+                        </tr>
+                        <tr>
+                            <td>日本語</td>
+                            <td>    </td>
+                        </tr>    
+                </table></td>>
+            </tr>
+       </table>
