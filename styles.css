@@ -1,0 +1,19 @@
+*/th,td {
+    border : dashed red 1px;
+}*/
+.profile{
+    border-radius: 50%
+}
+body {
+    background-color: rgb(224, 225, 227);
+}
+hr {
+    border-style: none; 
+    border-top-style: dotted;
+    border-color: grey;
+    border-width:5px;
+    width: 30%;
+  }
+  
+  
+  
